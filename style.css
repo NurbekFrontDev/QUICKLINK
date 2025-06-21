@@ -285,3 +285,102 @@ header {
 .aboute-me .description .button .write {
     width: 100%;
 }
+
+.work-experience {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    border: 0.75px solid rgba(51, 51, 51, 1);
+    border-radius: 24px;
+    padding: 18px 18px 15px 18px;
+    max-width: 545px;
+    width: 100%;
+}
+
+
+.work-experience .title {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 19px;
+    color: rgba(170, 219, 107, 1);
+}
+
+.job-list {
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+}   
+
+.job-info {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.company-and-link { 
+    display: flex;
+    flex-direction: column;
+    gap: 1.5px;
+}
+
+.company {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.period {
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 19px;
+    color: rgba(118, 117, 123, 1)
+}
+
+.company-name {
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 19px;
+    color: rgba(118, 117, 123, 1);
+    text-decoration: underline;
+}
+
+.position {
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 19px;
+}
+
+.project-info {
+
+}
+
+.project-info .project-photo {
+
+}
+
+.project-info .project-description {
+
+}
+
+.project-info .project-name {
+
+}
+
+.project-info .small-decription {
+
+}
+
+.project-info .show-project {
+
+}
+
+.project-info .button-show {
+
+}
+
+.project-info .show {
+    
+}
